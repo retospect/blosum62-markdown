@@ -1,4 +1,4 @@
-# BLOSUM64 in markdown
+# BLOSUM62 in markdown
 
 |     |     C |     |     S |     T |     A |     G |     P |     |     D |     E |     Q |     N |     |     H |     R |     K |     |     M |     I |     L |     V |     |      W |     Y |     F |     |
 | ---:| -----:| ---:| -----:| -----:| -----:| -----:| -----:| ---:| -----:| -----:| -----:| -----:| ---:| -----:| -----:| -----:| ---:| -----:| -----:| -----:| -----:| ---:| ------:| -----:| -----:| ---:|
@@ -29,6 +29,6 @@
 |   F |    -2 |   F |    -2 |    -2 |    -2 |    -3 |    -4 |   F |    -3 |    -3 |    -3 |    -3 |   F |    -1 |    -3 |    -3 |   F |     0 |     0 |     0 |    -1 |   F |      1 |     3 | **6** |   F |
 |     |     C |     |     S |     T |     A |     G |     P |     |     D |     E |     Q |     N |     |     H |     R |     K |     |     M |     I |     L |     V |     |      W |     Y |     F |     |
 
-- BLOSUM64 matrix, full
+- BLOSUM62 matrix, full
 - For markdown notes
 - based on Margaret Dayhoff's classification scheme, from [https://en.wikipedia.org/wiki/BLOSUM#/media/File:Blosum62-dayhoff-ordering.svg](Wiki svg)
